@@ -1,5 +1,4 @@
 # recipes_top
-
 Recipes |  HTML | Foundations Course (JavaScript, CSS, HTML, Git) | 01/05 | The Odin Project | 2024
 
 Organize all your projects like a portfolio and link them to GitHub so it can be seen by others.
